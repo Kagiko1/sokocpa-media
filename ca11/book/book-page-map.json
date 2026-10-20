@@ -1,0 +1,398 @@
+{
+ "generated": "2026-10-20T08:21:49",
+ "pdf": "/home/hatch/workspace/goals/sokocpa-simulator-rebuild-on-base44/files/SokoCPA-CA11-Complete-Book.pdf",
+ "total_pages": 666,
+ "lessons": {
+  "01-nature-and-purpose-of-accounting": {
+   "start_page": 7,
+   "end_page": 15,
+   "title": "1.1 Nature and Purpose of Accounting",
+   "module": "m01-introduction-to-accounting"
+  },
+  "02-accounting-equation-and-double-entry": {
+   "start_page": 16,
+   "end_page": 23,
+   "title": "1.2 Accounting Equation and Double Entry",
+   "module": "m01-introduction-to-accounting"
+  },
+  "03-regulatory-framework-ethics-and-concepts": {
+   "start_page": 24,
+   "end_page": 45,
+   "title": "1.3 Regulatory Framework, Ethics and Concepts",
+   "module": "m01-introduction-to-accounting"
+  },
+  "01-source-documents": {
+   "start_page": 57,
+   "end_page": 62,
+   "title": "2.1 Source Documents",
+   "module": "m02-recording-transactions"
+  },
+  "02-books-of-original-entry": {
+   "start_page": 63,
+   "end_page": 70,
+   "title": "2.2 Books of Original Entry",
+   "module": "m02-recording-transactions"
+  },
+  "03-ledgers-and-trial-balance": {
+   "start_page": 71,
+   "end_page": 83,
+   "title": "2.3 Ledgers and Trial Balance",
+   "module": "m02-recording-transactions"
+  },
+  "04-computerised-accounting-systems": {
+   "start_page": 84,
+   "end_page": 94,
+   "title": "2.4 Computerised Accounting Systems",
+   "module": "m02-recording-transactions"
+  },
+  "01-ppe-recognition-and-measurement": {
+   "start_page": 105,
+   "end_page": 115,
+   "title": "3.1 PPE Recognition and Measurement",
+   "module": "m03-accounting-for-assets-and-liabilities"
+  },
+  "02-depreciation-and-revaluation": {
+   "start_page": 116,
+   "end_page": 122,
+   "title": "3.2 Depreciation and Revaluation",
+   "module": "m03-accounting-for-assets-and-liabilities"
+  },
+  "03-intangible-assets": {
+   "start_page": 123,
+   "end_page": 127,
+   "title": "3.3 Intangible Assets",
+   "module": "m03-accounting-for-assets-and-liabilities"
+  },
+  "04-inventory-and-receivables": {
+   "start_page": 128,
+   "end_page": 133,
+   "title": "3.4 Inventory and Receivables",
+   "module": "m03-accounting-for-assets-and-liabilities"
+  },
+  "05-cash-bank-and-reconciliations": {
+   "start_page": 134,
+   "end_page": 152,
+   "title": "3.5 Cash, Bank and Reconciliations",
+   "module": "m03-accounting-for-assets-and-liabilities"
+  },
+  "06-liabilities-payables-loans-and-accruals": {
+   "start_page": 153,
+   "end_page": 159,
+   "title": "3.6 Liabilities: Payables, Loans and Accruals",
+   "module": "m03-accounting-for-assets-and-liabilities"
+  },
+  "01-types-of-errors": {
+   "start_page": 170,
+   "end_page": 178,
+   "title": "4.1 Types of Errors",
+   "module": "m04-correction-of-errors-and-suspense-accounts"
+  },
+  "02-suspense-accounts-and-corrections": {
+   "start_page": 179,
+   "end_page": 205,
+   "title": "4.2 Suspense Accounts and Corrections",
+   "module": "m04-correction-of-errors-and-suspense-accounts"
+  },
+  "01-income-statement-of-a-sole-trader": {
+   "start_page": 216,
+   "end_page": 222,
+   "title": "5.1 Income Statement of a Sole Trader",
+   "module": "m05-financial-statements-of-a-sole-trader"
+  },
+  "02-statement-of-financial-position": {
+   "start_page": 223,
+   "end_page": 232,
+   "title": "5.2 Statement of Financial Position",
+   "module": "m05-financial-statements-of-a-sole-trader"
+  },
+  "03-adjustments-and-worked-examples": {
+   "start_page": 233,
+   "end_page": 246,
+   "title": "5.3 Adjustments and Worked Examples",
+   "module": "m05-financial-statements-of-a-sole-trader"
+  },
+  "01-partnership-fundamentals": {
+   "start_page": 258,
+   "end_page": 263,
+   "title": "6.1 Partnership Fundamentals",
+   "module": "m06-financial-statements-of-a-partnership"
+  },
+  "02-appropriation-account": {
+   "start_page": 264,
+   "end_page": 279,
+   "title": "6.2 The Appropriation Account",
+   "module": "m06-financial-statements-of-a-partnership"
+  },
+  "03-current-vs-fixed-capital": {
+   "start_page": 280,
+   "end_page": 285,
+   "title": "6.3 Current vs Fixed Capital",
+   "module": "m06-financial-statements-of-a-partnership"
+  },
+  "04-admission-retirement-and-ratio-changes": {
+   "start_page": 286,
+   "end_page": 312,
+   "title": "6.4 Admission, Retirement and Ratio Changes",
+   "module": "m06-financial-statements-of-a-partnership"
+  },
+  "01-share-capital-and-share-issues": {
+   "start_page": 324,
+   "end_page": 338,
+   "title": "7.1 Share Capital and Share Issues",
+   "module": "m07-financial-statements-of-a-company"
+  },
+  "02-reserves-and-income-tax": {
+   "start_page": 339,
+   "end_page": 348,
+   "title": "7.2 Reserves and Income Tax",
+   "module": "m07-financial-statements-of-a-company"
+  },
+  "03-company-income-statement": {
+   "start_page": 349,
+   "end_page": 360,
+   "title": "7.3 The Company Income Statement",
+   "module": "m07-financial-statements-of-a-company"
+  },
+  "04-company-statement-of-financial-position": {
+   "start_page": 361,
+   "end_page": 378,
+   "title": "7.4 The Company Statement of Financial Position",
+   "module": "m07-financial-statements-of-a-company"
+  },
+  "01-manufacturing-costs-classification": {
+   "start_page": 390,
+   "end_page": 396,
+   "title": "8.1 Manufacturing Costs and Their Classification",
+   "module": "m08-financial-statements-of-a-manufacturing-entity"
+  },
+  "02-manufacturing-account": {
+   "start_page": 397,
+   "end_page": 417,
+   "title": "8.2 The Manufacturing Account",
+   "module": "m08-financial-statements-of-a-manufacturing-entity"
+  },
+  "03-manufacturing-income-statement-and-sfp": {
+   "start_page": 418,
+   "end_page": 436,
+   "title": "8.3 Manufacturing Income Statement and Statement of Financial Position",
+   "module": "m08-financial-statements-of-a-manufacturing-entity"
+  },
+  "01-single-entry-and-capital-comparison": {
+   "start_page": 448,
+   "end_page": 459,
+   "title": "9.1 Single Entry and the Capital Comparison Method",
+   "module": "m09-accounts-from-incomplete-records"
+  },
+  "02-statement-of-affairs": {
+   "start_page": 460,
+   "end_page": 471,
+   "title": "9.2 The Statement of Affairs",
+   "module": "m09-accounts-from-incomplete-records"
+  },
+  "03-techniques-for-completing-records": {
+   "start_page": 472,
+   "end_page": 485,
+   "title": "9.3 Techniques for Completing Incomplete Records",
+   "module": "m09-accounts-from-incomplete-records"
+  },
+  "01-npo-features-and-receipts-payments": {
+   "start_page": 497,
+   "end_page": 513,
+   "title": "10.1 Lesson 1: Not-for-Profit Organisations \u2014 Features and the Receipts and Payments Account",
+   "module": "m10-financial-statements-of-a-not-for-profit-organisation"
+  },
+  "02-income-and-expenditure-account": {
+   "start_page": 514,
+   "end_page": 528,
+   "title": "10.2 Lesson 2: The Income and Expenditure Account",
+   "module": "m10-financial-statements-of-a-not-for-profit-organisation"
+  },
+  "03-npo-statement-of-financial-position": {
+   "start_page": 529,
+   "end_page": 541,
+   "title": "10.3 Lesson 3: Statement of Financial Position of a Not-for-Profit Organisation",
+   "module": "m10-financial-statements-of-a-not-for-profit-organisation"
+  },
+  "01-statement-of-cash-flows": {
+   "start_page": 553,
+   "end_page": 583,
+   "title": "11.1 Lesson 1: The Statement of Cash Flows (IAS 7)",
+   "module": "m11-analysing-financial-statements"
+  },
+  "02-profitability-and-liquidity-ratios": {
+   "start_page": 584,
+   "end_page": 593,
+   "title": "11.2 Lesson 2: Profitability and Liquidity Ratios",
+   "module": "m11-analysing-financial-statements"
+  },
+  "03-efficiency-and-investor-ratios": {
+   "start_page": 594,
+   "end_page": 600,
+   "title": "11.3 Lesson 3: Efficiency and Investor Ratios",
+   "module": "m11-analysing-financial-statements"
+  },
+  "04-ratio-analysis-and-limitations": {
+   "start_page": 601,
+   "end_page": 609,
+   "title": "11.4 Lesson 4: Ratio Analysis in Practice \u2014 Interpretation, Gearing and Limitations",
+   "module": "m11-analysing-financial-statements"
+  },
+  "01-public-sector-features-and-structure": {
+   "start_page": 619,
+   "end_page": 625,
+   "title": "12.1 Lesson 1: Public Sector Features and Structure",
+   "module": "m12-introduction-to-public-sector-accounting"
+  },
+  "02-regulatory-oversight-and-accounting-techniques": {
+   "start_page": 626,
+   "end_page": 635,
+   "title": "12.2 Lesson 2: Regulatory Oversight and Accounting Techniques in the Public Sector",
+   "module": "m12-introduction-to-public-sector-accounting"
+  }
+ },
+ "modules": {
+  "m01-introduction-to-accounting": {
+   "title": "Module 1: Introduction to Accounting",
+   "start_page": 6,
+   "end_page": 55
+  },
+  "m02-recording-transactions": {
+   "title": "Module 2: Recording Transactions",
+   "start_page": 56,
+   "end_page": 103
+  },
+  "m03-accounting-for-assets-and-liabilities": {
+   "title": "Module 3: Accounting for Assets and Liabilities",
+   "start_page": 104,
+   "end_page": 168
+  },
+  "m04-correction-of-errors-and-suspense-accounts": {
+   "title": "Module 4: Correction of Errors and Suspense Accounts",
+   "start_page": 169,
+   "end_page": 214
+  },
+  "m05-financial-statements-of-a-sole-trader": {
+   "title": "Module 5: Financial Statements of a Sole Trader",
+   "start_page": 215,
+   "end_page": 256
+  },
+  "m06-financial-statements-of-a-partnership": {
+   "title": "Module 6: Financial Statements of a Partnership",
+   "start_page": 257,
+   "end_page": 322
+  },
+  "m07-financial-statements-of-a-company": {
+   "title": "Module 7: Financial Statements of a Company",
+   "start_page": 323,
+   "end_page": 388
+  },
+  "m08-financial-statements-of-a-manufacturing-entity": {
+   "title": "Module 8: Financial Statements of a Manufacturing Entity",
+   "start_page": 389,
+   "end_page": 446
+  },
+  "m09-accounts-from-incomplete-records": {
+   "title": "Module 9: Accounts from Incomplete Records",
+   "start_page": 447,
+   "end_page": 495
+  },
+  "m10-financial-statements-of-a-not-for-profit-organisation": {
+   "title": "Module 10: Financial Statements of a Not-for-Profit Organisation",
+   "start_page": 496,
+   "end_page": 551
+  },
+  "m11-analysing-financial-statements": {
+   "title": "Module 11: Analysing Financial Statements",
+   "start_page": 552,
+   "end_page": 617
+  },
+  "m12-introduction-to-public-sector-accounting": {
+   "title": "Module 12: Introduction to Public Sector Accounting",
+   "start_page": 618,
+   "end_page": 643
+  }
+ },
+ "appendices": {
+  "how-to-use": {
+   "title": "How to use this book",
+   "start_page": 2,
+   "end_page": 2
+  },
+  "syllabus-map": {
+   "title": "CA11 syllabus map",
+   "start_page": 3,
+   "end_page": 5
+  },
+  "mock-m01-introduction-to-accounting": {
+   "title": "Module 1 Mock Paper \u2014 with model answers",
+   "start_page": 46,
+   "end_page": 55
+  },
+  "mock-m02-recording-transactions": {
+   "title": "Module 2 Mock Paper \u2014 with model answers",
+   "start_page": 95,
+   "end_page": 103
+  },
+  "mock-m03-accounting-for-assets-and-liabilities": {
+   "title": "Module 3 Mock Paper \u2014 with model answers",
+   "start_page": 160,
+   "end_page": 168
+  },
+  "mock-m04-correction-of-errors-and-suspense-accounts": {
+   "title": "Module 4 Mock Paper \u2014 with model answers",
+   "start_page": 206,
+   "end_page": 214
+  },
+  "mock-m05-financial-statements-of-a-sole-trader": {
+   "title": "Module 5 Mock Paper \u2014 with model answers",
+   "start_page": 247,
+   "end_page": 256
+  },
+  "mock-m06-financial-statements-of-a-partnership": {
+   "title": "Module 6 Mock Paper \u2014 with model answers",
+   "start_page": 313,
+   "end_page": 322
+  },
+  "mock-m07-financial-statements-of-a-company": {
+   "title": "Module 7 Mock Paper \u2014 with model answers",
+   "start_page": 379,
+   "end_page": 388
+  },
+  "mock-m08-financial-statements-of-a-manufacturing-entity": {
+   "title": "Module 8 Mock Paper \u2014 with model answers",
+   "start_page": 437,
+   "end_page": 446
+  },
+  "mock-m09-accounts-from-incomplete-records": {
+   "title": "Module 9 Mock Paper \u2014 with model answers",
+   "start_page": 486,
+   "end_page": 495
+  },
+  "mock-m10-financial-statements-of-a-not-for-profit-organisation": {
+   "title": "Module 10 Mock Paper \u2014 with model answers",
+   "start_page": 542,
+   "end_page": 551
+  },
+  "mock-m11-analysing-financial-statements": {
+   "title": "Module 11 Mock Paper \u2014 with model answers",
+   "start_page": 610,
+   "end_page": 617
+  },
+  "mock-m12-introduction-to-public-sector-accounting": {
+   "title": "Module 12 Mock Paper \u2014 with model answers",
+   "start_page": 636,
+   "end_page": 643
+  },
+  "final-mock": {
+   "title": "Full-Course Final Mock Paper \u2014 with model answers",
+   "start_page": 644,
+   "end_page": 659
+  },
+  "paper-index": {
+   "title": "Index of KASNEB past-paper questions",
+   "start_page": 660,
+   "end_page": 666
+  }
+ },
+ "missing_anchors": []
+}
